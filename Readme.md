@@ -1,6 +1,6 @@
 # Animevost.org Anime TOP Parser
 It's able to parse top by genres you love!
-###How to run?
+### How to run?
 Install maven on your PC and run in terminal, in project root directory:
 ```bash 
 mvn exec:java
